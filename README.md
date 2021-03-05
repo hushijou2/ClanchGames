@@ -1,2 +1,2 @@
-# ClanchGames.github.io
-ClanchGames homepage
+# hushijou2.github.io
+Clanch Games 
